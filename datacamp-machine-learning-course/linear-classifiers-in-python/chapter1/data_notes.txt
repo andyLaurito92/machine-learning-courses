@@ -1,0 +1,2 @@
+1- Data is coming from here: https://ai.stanford.edu/~amaas/data/sentiment/
+
